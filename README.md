@@ -41,11 +41,15 @@ healthDepartment/
 
 1. **Clone the repository**
    git clone https://github.com/NiteshDhakal/HealthDepartment.git
+   
    cd HealthDepartment
 
- 2. **Create and activate a virtual environment**
- 3. **Install the required libraries**
- 4. **Launch the Streamlit app**
+ 3. **Create and activate a virtual environment**
+    
+ 4. **Install the required libraries**
+    
+ 5. **Launch the Streamlit app**
+    
     streamlit run dashboard.py
 
 
