@@ -1,0 +1,7 @@
+[theme]
+base="dark"             # Options: "light" or "dark"
+primaryColor="#F63366"  # Change to any hex color
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="sans serif"       # Options: "sans serif", "serif", "monospace"
